@@ -1,1 +1,1 @@
-# INM707-Deep-Reinforcement-Learning
+# Deep Reinforcement Learning on Simulatated warehouse environment and Frozen Lake 
